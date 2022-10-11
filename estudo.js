@@ -39,4 +39,11 @@ function total(){
     let ju = document.getElementById("juros").value;
     let resultado = ( val * ( ju/100 ) ) + val ;
     document.write("0 total é de: " + resultado );
+
+}
+function soma(){
+    let v1 = document.getElementById("v1").value;
+    let v2= document.getElementById("v22").value;
+    let r =(v1 + v2);
+     document.getElementById("resultado").inneHTML = r;
 }
