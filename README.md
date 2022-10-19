@@ -1,7 +1,8 @@
-# Terceiro Trimeste 
+# Terceiro Trimestre
 
-## identificaçâo 
-Nome: Mariana n' 17
+## Identificação
+Nome: Mariana  Nr.17
 
-## Assuntos 
+## Assuntos
 HTML, CSS e JavaScript
+
